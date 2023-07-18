@@ -3,7 +3,7 @@ site_name: 'ResCloud Documentation'
 site_description: "ResCloud Documentation"
 repo_url: https://github.iu.edu/jsadmin/rtdocs
 copyright: Copyright © 2023 The Trustees of Indiana University
-#site_favicon: 'images/Jetstream2_icon_64px.jpg'
+#site_favicon: 'images/RT-PTI_lockup_vert_red-black.svg'
 
 theme:
   name: "readthedocs"
