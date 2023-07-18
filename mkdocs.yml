@@ -56,6 +56,7 @@ extra:
 nav:
   - ResCloud Main:
     - ResCloud Home: index.md
+    - MkDocs Intr: mkdocs-intro.md
 #    - Jetstream2 Status and News: overview/status.md
 #  - Jetstream2 Info:
 #    - System Overview: overview/overview-doc.md
