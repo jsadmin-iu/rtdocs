@@ -1,17 +1,6 @@
-# Welcome to MkDocs
+<!- ![IU RT Logo](images/RT-PTI_lockup_vert_red-black_high-res.png) ->
+<img src="images/T-PTI_lockup_vert_red-black_high-res.png" alt="Logo" class="center" width="400"/>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is just a placeholder. 
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+The IU Research Cloud is a cloud computing environment for researchers and educators running on [OpenStack](https://www.openstack.org/){target=_blank} It is designed to provide both infrastructure for gateways and other "always on" services as well as giving researchers access to interactive computing and data analysis resources on demand.
