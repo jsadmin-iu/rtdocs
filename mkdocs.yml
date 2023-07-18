@@ -20,7 +20,7 @@ theme:
   #  primary: black
   #features:
   #  - navigation.top
-  logo: 'images/RT-PTI_lockup_vert_red-black_high-res.png'
+  logo: 'images/RT-PTI_lockup_vert_red-white_high-res.png'
   highlightjs: false
   style_external_links: True
   'display_version': False
