@@ -20,7 +20,7 @@ theme:
   #  primary: black
   #features:
   #  - navigation.top
-  logo: 'images/iu-logo.svg'
+  logo: 'images/RT-PTI_lockup_vert_red-black.svg'
   highlightjs: false
   style_external_links: True
   'display_version': False
