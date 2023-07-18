@@ -1,5 +1,5 @@
 <!- ![IU RT Logo](images/RT-PTI_lockup_vert_red-black_high-res.png) ->
-<img src="images/T-PTI_lockup_vert_red-black_high-res.png" alt="Logo" class="center" width="400"/>
+<img src="images/RT-PTI_lockup_vert_red-black_high-res.png" alt="Logo" class="center" width="400"/>
 
 This is just a placeholder. 
 
