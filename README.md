@@ -1,3 +1,2 @@
 # rtdocs
-
-Initial test
+Research Technologies repository for ReadTheDocs publishing

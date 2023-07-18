@@ -1,0 +1,80 @@
+site_name: 'ResCloud Documentation'
+#site_url: https://docs.jetstream-cloud.org/
+site_description: "ResCloud Documentation"
+repo_url: https://github.iu.edu/jsadmin/rtdocs
+copyright: Copyright © 2023 The Trustees of Indiana University
+#site_favicon: 'images/Jetstream2_icon_64px.jpg'
+
+theme:
+  name: "readthedocs"
+  prev_next_buttons_location: bottom
+  # prev_next_buttons_location: none
+  titles_only: 'True'
+  include_404: 'True'
+  collapse_navigation: 'True'
+  sticky_navigation: 'True'
+  #collapse_navigation: False
+  #name: "windmill"
+  #name: "material"
+  #palette:
+  #  primary: black
+  #features:
+  #  - navigation.top
+  logo: 'images/iu-logo.svg'
+  highlightjs: false
+  style_external_links: True
+  'display_version': False
+
+extra_css:
+    - 'css/custom.css'
+
+#extra_javascript:
+#    - 'js/matomo.js'
+#    - 'js/usage_estimator.js'
+
+markdown_extensions:
+    - smarty
+    - toc:
+        permalink: True
+    - sane_lists
+    - attr_list
+    - admonition
+
+plugins:
+    - search:
+        indexing: 'full'
+
+extra:
+    consent:
+    title: Cookie consent
+    description: >
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+
+nav:
+  - ResCloud Main:
+    - ResCloud Home: index.md
+#    - Jetstream2 Status and News: overview/status.md
+#  - Jetstream2 Info:
+#    - System Overview: overview/overview-doc.md
+#    - Architecture and Capabilities of Jetstream2: overview/architecture.md
+#    - Configuration and specifications: overview/config.md
+#    - Network configuration and considerations: overview/network.md
+#  - Frequently Asked Questions:
+#    - General FAQs: faq/general-faq.md
+#    - Troubleshooting: faq/trouble.md
+#    - Allocations: faq/alloc.md
+#    - GPU FAQs: faq/gpu.md
+#    - Security: faq/security.md
+#    - Software: faq/software.md
+#    - Gateways: faq/gateways.md
+#  - General Usage Information:
+#    - Jetstream2 Resources: general/resources.md
+#    - ACCESS Credits and Jetstream2: general/access.md
+#    - VM Sizes and Configurations: general/vmsizes.md
+#    - Quotas: general/quotas.md
+#    - Instance Management Actions: general/instancemgt.md
+#    - Featured Images: general/featured.md
+#    - Microsoft Windows on Jetstream2: general/windows.md
